@@ -1,4 +1,4 @@
 {
-	"Version": 6.19,
+	"Version": 6.20,
 	"URL": "https://files.catbox.moe/"
 }
