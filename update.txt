@@ -1,4 +1,4 @@
 {
-	"Version": 7.2,
-	"URL": "https://files.catbox.moe/znsi8f.zip"
+	"Version": 7.3,
+	"URL": "https://files.catbox.moe/m4d3yh.zip"
 }
