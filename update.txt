@@ -1,4 +1,4 @@
 {
-	"Version": 10.01,
-	"URL": "https://drive.google.com/drive/folders/1etdhBmd3ox8uRfDi6pht6h1RRIXuFByy?usp=sharing"
+	"Version": 10.1,
+	"URL": "https://dl.dropboxusercontent.com/scl/fi/0ozp61s065pzm85m9m2as/Chatty-SOOP-V10.1.exe?rlkey=5ykj1va2amke90pa97q8ltwtz&st=a3u1nq96&dl=0"
 }
