@@ -1,4 +1,4 @@
 {
 	"Version": 10.2,
-	"URL": "https://cdn.discordapp.com/attachments/1297157284643868763/1307013323384160296/Chatty_SOOP_V10.2.exe?ex=6738c283&is=67377103&hm=a7679bbaea040752414667cab71b0e8285c7e35be0d71c7e71a360c2346bfbc9&"
+	"URL": "https://dl.dropboxusercontent.com/scl/fi/9h742cypp2m6z90433c0l/Chatty-SOOP-V10.2.exe?rlkey=9otaqa5p0pzfqo33ql2zy74z1&st=7lovdmfr&dl=0"
 }
