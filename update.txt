@@ -1,4 +1,4 @@
 {
-	"Version": 10.2,
-	"URL": "https://dl.dropboxusercontent.com/scl/fi/r2xwh1boehm3irns3r7tq/Chatty-SOOP-V10.2.exe?rlkey=96f03n0sq9850oxyb9el9crjk&st=1uvujky1&dl=0"
+	"Version": 10.3,
+	"URL": "https://dl.dropboxusercontent.com/scl/fi/gnizaym6h0imxa2vt2ftv/Chatty-SOOP-V10.3.exe?rlkey=oc6w61j4mpawm5wdppt3np5ez&st=49av2ffv&dl=0"
 }
