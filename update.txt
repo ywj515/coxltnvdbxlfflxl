@@ -1,6 +1,6 @@
 {
-	"Version": 10.32,
-	"VersionN": "10.3.2",
-	"BuildNumber": "20241124",
-	"URL": "https://dl.dropboxusercontent.com/scl/fi/9oroy1ekcz3aptvxqqcva/Chatty-SOOP-V10.32.exe?rlkey=pe2c8qn5sh9lql9tnk1rkluvh&st=utd3n6i8&dl=0"
+	"Version": 10.4,
+	"VersionN": "10.4",
+	"BuildNumber": "20241125.0",
+	"URL": "https://dl.dropboxusercontent.com/scl/fi/at6z2cxydm2gaumm9qxzq/Chatty-SOOP-V10.4.exe?rlkey=y9kvkn73emgrlf79emeq2w0gp&st=dvwzmpej&dl=0"
 }
