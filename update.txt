@@ -2,5 +2,5 @@
 	"Version": 10.71,
 	"VersionN": "10.7.1",
 	"BuildNumber": "20241129.3",
-	"URL": "https://dl.dropboxusercontent.com/scl/fi/i6kt5x6um9pxx60bf1ur1/Chatty-SOOP-V10.7.1.exe?rlkey=gc21ptt4jz06z2ughye77tn9f&st=wxdzlqxw&dl=0"
+	"URL": "https://dl.dropboxusercontent.com/scl/fi/lfrtqljt6p3oizr5b6no3/Chatty-SOOP-V10.7.1.exe?rlkey=vmietd9os2efn94702dxuvb81&st=tvhmqimz&dl=0"
 }
