@@ -2,5 +2,6 @@
 	"Version": 11.14,
 	"VersionN": "11.1.4",
 	"BuildNumber": "20241210.2",
-	"URL": "https://www.dropbox.com/scl/fi/lmcyuyen9zg0ucent10j1/Better-SOOP-V11.1.4.exe?rlkey=p605ceci9ir4f4cegxv66u6t0&st=n087s7fx&dl=0"
+	"URL": "https://dl.dropboxusercontent.com/scl/fi/lmcyuyen9zg0ucent10j1/Better-SOOP-V11.1.4.exe?rlkey=p605ceci9ir4f4cegxv66u6t0&st=n087s7fx&dl=0"
 }
+
