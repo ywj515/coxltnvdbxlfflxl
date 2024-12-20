@@ -1,6 +1,6 @@
 {
-	"Version": 11.3,
-	"VersionN": "11.3",
-	"BuildNumber": "20241219.0",
-	"URL": "https://dl.dropboxusercontent.com/scl/fi/66eomlm9k16ypbw5q8yd0/Better-SOOP-V11.3.exe?rlkey=faurszqtj6wxo0dc6sd667yry&st=m5dmqpkk&dl=0"
+	"Version": 11.31,
+	"VersionN": "11.3.1",
+	"BuildNumber": "20241221.0",
+	"URL": "https://dl.dropboxusercontent.com/scl/fi/kv2sxso6ojwmqjkbcxzsh/Better-SOOP-V11.3.1.exe?rlkey=1y4d8y5ic1v6e7525ym11o672&st=de3dk6v3&dl=0"
 }
