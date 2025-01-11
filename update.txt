@@ -1,5 +1,5 @@
 {
 	"VersionN": "11.5",
 	"BuildNumber": "20250112.0",
-	"URL": "https://www.dropbox.com/scl/fi/1w02gcbouks2ndxizc9an/Better-SOOP-V11.5.exe?rlkey=w3rutp8hbntadfqmxvy974v9z&st=2948qpbc&dl=0"
+	"URL": "gAAAAABngss9bkXt10w-FilAPKlEsb9_S_XUiPwtHRQ-4ckXzB3gxyVk8au-ORdzuxMDKZvBVc40Y8fEhVccghUjf5JLGnsaU9QuYBRsEUarPcA-HMZX37-WuovSIBt6UCCHh2apaPULh_z2dSr0Ivwl84ozq0YaOvmK5HvdHREzLgv6dLzB_5CbdgrZdRB6v_nDtLmvPpGTjsyCEoPPqr-i5zX47TdYLO2BOHzmdvnUkFtIqTvPXHGb-ZlQkQC0yeIQJSjJXjhV"
 }
