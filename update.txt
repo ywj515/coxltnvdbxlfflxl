@@ -1,5 +1,5 @@
 {
-	"VersionN": "11.4.1",
-	"BuildNumber": "20250111.0",
-	"URL": "gAAAAABngUVkBpt2ImG-Zaz6QBU5RW8DhZP-Tz39Ci_2TyU64KcyIzQXyhPr8uE3AtnLkeeHL8bt96w0e7NGU2ll1b55YGE8oAnIbtECJ6VtJPKxHz9IGssMVgI7c1psUFudWO4XYgl2U-2h409EzVDdkw7t-15BjEMak4Hr6oc_5Em8qUI8DhrKaMhG0FK3ZoZLWNbmL1IPevMqwo2ikr66poZIcpneD4DHuQ9vfCekyPytoAGzfoNTru0LGSP4RWU45W7MCQJ6"
+	"VersionN": "11.5",
+	"BuildNumber": "20250112.0",
+	"URL": "https://www.dropbox.com/scl/fi/1w02gcbouks2ndxizc9an/Better-SOOP-V11.5.exe?rlkey=w3rutp8hbntadfqmxvy974v9z&st=2948qpbc&dl=0"
 }
