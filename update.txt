@@ -1,5 +1,5 @@
 {
 	"VersionN": "11.8",
-	"BuildNumber": "20250201.0",
+	"BuildNumber": "20240201.0",
 	"URL": "gAAAAABnnOvGfvcPeV8aLobBz-ijb6rt8sfyEZg8lGvosQiVFeam1NJAJfV7dRYtdCslzxy3VbMuqxCdXUdzjhTl47o4KGazOLC1TW06AkWpWnlUo_Zyirl7zYi0H2oh0WFYn149vVVQf67Li3MSYp2sMqfPV2st9H2vC0mMRskXRdt2qNCfYfBVT3YqYzGKFifZ80rUCy5KKpvtNQqPJ-Yyw7P6Af6ckmAd1MwYnZXbEb28GBN7nLi9kZOFVnI6yK1lNjtz5Ju0"
 }
