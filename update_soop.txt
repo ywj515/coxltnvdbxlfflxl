@@ -1,1 +1,5 @@
-
+{
+	"VersionN": "1.0",
+	"BuildNumber": "20250224.0",
+	"URL": ""
+}
