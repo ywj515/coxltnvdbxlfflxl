@@ -1,5 +1,5 @@
 {
-	"VersionN": "7.0.5",
-	"BuildNumber": "20250311.0",
-	"URL": "gAAAAABn0EYtfPxJqsbDFzThxOhiDhufStkTWX0fXTzpWU4OFydb_NEYMy3jVdfcZxzJx1IBEnhdnejseRm8IlGRqcvt619tmoiuJMJbSYGtSPKjffr__s4B3Hkh4z6dTrgkTBYaGEZg7u0ucLpocyq0TyQ-lL1_PtGTkc62K0uS-weKR2-_1IXDAS4xcp5jhC-zz7nAWp0le4msoidjemOJvSo0bVVeXzWbmmWxNgj_d3jQrhbWtd2e0nY0UlUD_rMdz6mUZKok"
+	"VersionN": "7.0.6",
+	"BuildNumber": "20250312.0",
+	"URL": "gAAAAABn0HwkhbOKZEk3CvBaIDcP5ZP_Edt5d8R4c-IvNf9HmqxSX4rdrYEY9KhXe7Y9yvZY592t6SUXdwHWVU3eeCvvNdBAgGkgwKr7Ke1UqwnGedl14dSuqkf01mFtusgRG2F9dVu3B47yZj_xu7kFNBBh08-QoGYCWx3JkesXjZrWqGWV0tu0tBtpaGyMh7GMooytalf4HszG0LSmr0orK5rhsdGAbuHVoyByIufft6C1Hrq0qsFFofOvPB0nSlmu7nrE1lNa"
 }
