@@ -1,5 +1,5 @@
 {
-	"VersionN": "7.0.6",
-	"BuildNumber": "20250312.0",
+	"VersionN": "7.0.7",
+	"BuildNumber": "20250312.1",
 	"URL": "gAAAAABn0HwkhbOKZEk3CvBaIDcP5ZP_Edt5d8R4c-IvNf9HmqxSX4rdrYEY9KhXe7Y9yvZY592t6SUXdwHWVU3eeCvvNdBAgGkgwKr7Ke1UqwnGedl14dSuqkf01mFtusgRG2F9dVu3B47yZj_xu7kFNBBh08-QoGYCWx3JkesXjZrWqGWV0tu0tBtpaGyMh7GMooytalf4HszG0LSmr0orK5rhsdGAbuHVoyByIufft6C1Hrq0qsFFofOvPB0nSlmu7nrE1lNa"
 }
