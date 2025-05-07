@@ -1,5 +1,5 @@
 {
 	"VersionN": "7.8.6",
-	"BuildNumber": "20250507.0",
+	"BuildNumber": "20250506.0",
 	"URL": "gAAAAABoG2rT3RKz29zhzLXHarD0tNy38RRcCyd3cmL4Db2EslxnvvvHzlzzHBcWdU2rIjo88812RXgbXFMtMOlaMr4e9e7hYCsy2w9tN3M51Fw-V_nYEG-sopDMxwSsRDrHbZ-uRE3wrt2EkcCfohx05q6RKnZcafcRf3msPapZFWjYjDFN-mktlRMG8Lw0gKlq6M_2FXU6l_Ggn7iQGTCapTuz49Tm8nqQEZQXou8j3vgvr7URkAzXr669yTcl_ogKo-Equyxq"
 }
